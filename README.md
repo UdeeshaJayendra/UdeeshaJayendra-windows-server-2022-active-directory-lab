@@ -4,6 +4,9 @@
 
 A hands-on Windows Server administration project demonstrating Active Directory Domain Services (AD DS), centralized user management, Group Policy, file-sharing permissions, security auditing, and backup and recovery using Windows Server 2022 and Windows 11.
 
+<img width="1024" height="1536" alt="Active directory" src="https://github.com/user-attachments/assets/6c03c59d-b249-4691-9482-f50860efa800" />
+
+
 ## Project Overview
 
 This project implements a small enterprise-style Windows domain environment using VirtualBox. It demonstrates how a system administrator can centrally manage users, groups, client computers, access permissions, security policies, and backup operations.
